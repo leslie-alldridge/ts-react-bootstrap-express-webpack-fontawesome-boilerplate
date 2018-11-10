@@ -1,7 +1,9 @@
 import * as React from 'react';
 import { Media } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+//import css stylesheet
 import * as style from '../../containers/App/style.css';
+//import images / other static content
 import * as contactImg from '../../images/bg.png';
 
 export class ContactContent extends React.Component {
