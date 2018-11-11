@@ -14,7 +14,7 @@ Typescript
 
 Express
 
-Heroku (deploy)
+Heroku (deploy) and also Docker (optional)
 
 ## Installation
 
